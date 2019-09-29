@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Initial post"
+subtitle: "Just to use it as as template"
+author: "ssokurenko"
+avatar: "img/authors/ava.png"
+image: "img/christmas-tree.jpg"
+theme-color: "#fff"
+theme-background: "#4482c9"
+---
+
+### Markdown stuff goes here.
+First paragraph content.
+
+### The second part.
+Content here.
